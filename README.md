@@ -22,6 +22,12 @@ python reports.py
 
 The file data_engineering_data.csv must be in the same folder. The files output_avg.csv and output_total.csv are also generated after the program finishes.
 
+## SQL solution
+
+Please, run the code presented in the file "reports.sql" on a MySQL command line to see the SQL version of the report.
+
+The results of the SQL report are not a perfect match with those of the Python report. The start and end weeks are not eually calculated, so there are some differences. However, I could fix it with more time dedicated to it.
+
 ## Author
 
 Matheus Bandini (matheusbandini@gmail.com)
