@@ -1,0 +1,10 @@
+This exercise is to demonstrate your undertsanding of different aspects of data as well as your grasp of Python, SQL, and other data-oriented technologies. We would like you to keep in mind the following aspects while completing this exercise: (1) data validation and (2) data integrity
+
+Business stakeholders need three datasets refreshed every 3 hours:
+
+(1) average units sold, per product, for each calendar week.
+(2) historical table for total units sold per product for each week.
+
+These data are used daily for business decision-making (e.g. purchasing products, marketing budget, pricing) and need to be sure that these data are accurate. Please ensure that your code is clear. Feel free to use dataframes instead of SQL but also write out SQL statements as if you do have access to relational databases.
+
+Feel free to send any clarifying questions to Dan (danielso@kaspien.com)
